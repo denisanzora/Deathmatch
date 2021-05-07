@@ -6,3 +6,10 @@ It is currently under development...
 * Denis Anzora
 * David Chavez
 * Kaitlyn Hornbuckle
+
+## Before you push
+Only push
+* Build
+* Config
+* Content
+* Source
