@@ -8,7 +8,7 @@ It is currently under development...
 * Kaitlyn Hornbuckle
 
 ## Before you push
-Only push
+Only push using Git
 * Build
 * Config
 * Content
