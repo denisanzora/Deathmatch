@@ -9,9 +9,9 @@ It is currently under development...
 
 ## Before you push
 Push using Git by using the following commands.
-> git add Build
-> git commit -a
-> git push
+> git add Build.
+> git commit -a.
+> git push.
 
 Only push the following directories!
 * Build
