@@ -8,7 +8,12 @@ It is currently under development...
 * Kaitlyn Hornbuckle
 
 ## Before you push
-Only push using Git
+Push using Git by using the following commands.
+> git add Build
+> git commit -a
+> git push
+
+Only push the following directories!
 * Build
 * Config
 * Content
