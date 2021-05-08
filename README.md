@@ -8,7 +8,7 @@ It is currently under development...
 * Kaitlyn Hornbuckle
 
 ## Before you push
-Push using Git by using the following commands.
+Push using Git by using the following commands:
 > git add Build
 > 
 > git commit -a
